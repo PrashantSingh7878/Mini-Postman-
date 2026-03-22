@@ -23,6 +23,10 @@ It allows users to send API requests, view responses, and save requests for late
 
 ---
 
+##  Screenshot of the project
+![image alt] (https://github.com/PrashantSingh7878/Mini-Postman-/blob/4f6610b2b3af1a6154e12c86f88dee98b5d03962/Screenshot%202026-03-22%20171932.png)
+
+---
 ##  Features
 
 ### 1. API Request Tool
@@ -136,4 +140,4 @@ https://jsonplaceholder.typicode.com/posts
 5. Add cURL Import
 
 
-## Screenshot of the Project
+
