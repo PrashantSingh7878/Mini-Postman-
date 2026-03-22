@@ -42,6 +42,9 @@ app.get("/all", (req, res) => {
   });
 });
 
+app.get("/", (req, res) => {
+  res.send("Mini Postman is Running ");
+});
 
 app.delete("/del/:id", (req, res) => {
   db.run("DELETE FROM saved_req WHERE id=?", [req.params.id]);
