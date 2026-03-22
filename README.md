@@ -24,8 +24,8 @@ It allows users to send API requests, view responses, and save requests for late
 ---
 
 ##  Screenshot of the project
-![image alt] (https://github.com/PrashantSingh7878/Mini-Postman-/blob/4f6610b2b3af1a6154e12c86f88dee98b5d03962/Screenshot%202026-03-22%20171932.png)
-
+![image alt](https://github.com/PrashantSingh7878/Mini-Postman-/blob/4f6610b2b3af1a6154e12c86f88dee98b5d03962/Screenshot%202026-03-22%20171932.png)
+![image alt](https://github.com/PrashantSingh7878/Mini-Postman-/blob/4740b649a4f1b57b8a0d76e15297a74e95651a9f/Screenshot%202026-03-22%20171950.png)
 ---
 ##  Features
 
