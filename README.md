@@ -131,13 +131,13 @@ https://jsonplaceholder.typicode.com/posts
 .Load multiple API requests
 
 4. Advanced Features
-1.Support for PUT, DELETE methods
-2.Load saved request into form
-3.Response headers display
-4.Better error handling & validation
-5.Request history tracking
+Support for PUT, DELETE methods
+Response headers display
+Better error handling & validation
+Request history tracking
+Load saved data into form
 
-5. Add cURL Import
+6. Add cURL Import
 
 
 
