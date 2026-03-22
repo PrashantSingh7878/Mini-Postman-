@@ -67,23 +67,23 @@ It allows users to send API requests, view responses, and save requests for late
 ## ⚙️ Setup Instructions
 
 ### 🔹 1. Clone Repository
-In bash 
-git clone <your-repo-link>
-cd mini-postman
+`` bash 
+i) git clone <your-repo-link>
+ii) cd mini-postman
 
 
 2. Backend Setup
-cd server
-npm install
-node index.js
+i) cd server
+ii) npm install
+iii) node index.js
 
 Server runs on :
 (http://localhost:5000)
 
 3. Frontend Setup
-cd client
-npm install
-npm run dev
+i) cd client
+ii) npm install
+iii) npm run dev
 
 Frontend runs on:
 (http://localhost:5173)
@@ -96,7 +96,7 @@ https://jsonplaceholder.typicode.com/posts
 https://jsonplaceholder.typicode.com/posts
 
 ## Json data for testing
-{
+1) {
   "title": "prashant",
   "body": "test api",
   "userId": 1
@@ -104,10 +104,10 @@ https://jsonplaceholder.typicode.com/posts
 
 
 ## Limitation of my project
-..Not fully user authentication (login/signup not implemented)
-..Limited HTTP methods (only GET, POST)
-..Basic UI (not fully styled like Postman)
-..No advanced error handling
+1.Not fully user authentication (login/signup not implemented)
+2.Limited HTTP methods (only GET, POST)
+3.Basic UI (not fully styled like Postman)
+4.No advanced error handling
 
 
 ## Future Improvements
