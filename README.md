@@ -22,7 +22,11 @@ It allows users to send API requests, view responses, and save requests for late
 - SQLite (lightweight SQL database)
 
 ---
-
+##  Live link of Project
+-- Frontend(UI)
+ -  https://mini-postman-six.vercel.app/
+-- Backend API
+  - https://mini-postman-2.onrender.com/all
 ##  Screenshot of the project
 ![image alt](https://github.com/PrashantSingh7878/Mini-Postman-/blob/7882e2a928c281f8578233e61cf2516876e5d78e/Screenshot%202026-03-22%20171932.png)
 ![image alt](https://github.com/PrashantSingh7878/Mini-Postman-/blob/7882e2a928c281f8578233e61cf2516876e5d78e/Screenshot%202026-03-22%20171950.png)
