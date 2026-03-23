@@ -34,7 +34,7 @@ export default function Request({ setResp, refresh }) {
 };
   const saveIt = async () => {
     console.log("Saving method:", method);
-    await axios.post("http://localhost:5000/save", {
+    await axios.post("https://mini-postman-2.onrender.com/save", {
       name,
       url,
       method,

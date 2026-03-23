@@ -5,12 +5,12 @@ export default function Save({ reload }) {
   const [list, setList] = useState([]);
 
   useEffect(() => {
-    axios.get("http://localhost:5000/all")
+    axios.get("https://mini-postman-2.onrender.com/all")
       .then(res => setList(res.data));
   }, [reload]);
 
   const delOne = async (id) => {
-    await axios.delete("http://localhost:5000/del/" + id);
+    await axios.delete("https://mini-postman-2.onrender.com/del/" + id);
     setList(list.filter(i => i.id !== id));
   };
 
